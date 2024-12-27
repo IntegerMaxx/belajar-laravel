@@ -1,0 +1,12 @@
+{
+    "name": "narto/belajar-laravel01",
+    "description": "ini untuk belajar laravel sebenarnya. Namun saya baru tahu ternyata composer memiliki fitur ini",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Sunarto Utina",
+            "email": "nartosunarto73126@gmail.com"
+        }
+    ]
+}
