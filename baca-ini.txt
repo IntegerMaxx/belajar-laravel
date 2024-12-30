@@ -1,0 +1,5 @@
+Saya sengaja lompat dari beberapa pertemuan lanngsung ke Object Oriented Programming,
+karna waktu yang tersisa sangat sedikit. Dan saya harus segera memahami laravel ini
+untuk melanjutkan pembuatan project pada proposal saya. Alasan lainnya adalah
+miliki kemiripan sintaks dengan bahasa pemrograman lain, yang telah saya pelajari.
+Sehingga saya hanya cukup membacanya untuk membuat pemahaman semakin kuat 
