@@ -1,6 +1,6 @@
 <?php
 
-namespace Data\satu;
+namespace BelajarOverriding;
 
 class Mahasiswa
 {
